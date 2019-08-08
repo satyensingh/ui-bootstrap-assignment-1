@@ -36,7 +36,7 @@ The intent behind following these aesthetics is to make the web page more visual
 
 - You have checked your Assignment on the Automated Evaluation Tool - Hobbes (Check for necessary steps in your Boilerplate - README.md file. ) and got the required score - Check with your mentor about the Score you must achieve before it is accepted for Manual Submission.
 
-- Intimate your Mentor on Slack and/or Send an Email to learner.support@stackroute.in - with your Git URL - Once you are done working and are ready for final submission.
+- Intimate your Mentor or Send an Email to him - with your Git URL - Once you are done working and are ready for final submission.
 
 
 ### NOTE:
